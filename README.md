@@ -1,4 +1,4 @@
-# health_app
+# HLTH
 
 A clean and elegant health application designed for students
 
